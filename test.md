@@ -1,8 +1,5 @@
 ---
-layout: 
-root:
-title: 
-lessons:
+layout: default
 ---
 
 # B2SAFE-B2STAGE-Training
