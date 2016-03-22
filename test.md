@@ -1,8 +1,8 @@
 ---
-layout: lesson
-root: .
-title: Setup Instructions
-lessons: ['Bash', 'R', 'Python', 'Git', 'SQL', 'VM']
+layout: 
+root:
+title: 
+lessons:
 ---
 
 # B2SAFE-B2STAGE-Training
