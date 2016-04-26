@@ -1,4 +1,8 @@
 # B2SAFE-B2STAGE-Training
+
+**This repository moved to https://github.com/EUDAT-Training/B2SAFE-B2STAGE-Training**
+
+
 This training module provides hands-on material for iRODS4, EUDAT B2SAFE, the epicclient (based on handle version 8) and 
 [B2STAGE](https://github.com/WillemElbers/B2SAFE-GridFTP).
 
